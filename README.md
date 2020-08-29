@@ -1,5 +1,5 @@
 # csv-combo
-CSV Combinator
+CSV file combinator for CLI using node.js.
 
 ## Getting Started
 
